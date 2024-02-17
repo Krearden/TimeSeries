@@ -1,2 +1,2 @@
 # TimeSeries
-Repo for Time Series class (2023)
+Repository for Time Series class (2023)
